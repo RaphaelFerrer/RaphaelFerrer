@@ -2,7 +2,7 @@
 
 - 👨‍💻 Junior Software Developer
 - 🌱 Cursando Engenharia da Computação no IESB
-- 🛠 Estudando HTML5, CSS3, JavaScript
+- 🛠 Estudando C, C#, HTML5, CSS3 e SQLServer
 
 <div>
   <a href="https://github.com/RaphaelFerrer">
@@ -13,7 +13,6 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="HyperText Markup Language Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cascading Style Sheets Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img height="140em" align="right" alt="Rafa-yoda" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </div>
