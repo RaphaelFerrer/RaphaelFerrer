@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/RaphaelFerrer">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=RaphaelFerrer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelFerrer&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=RaphaelFerrer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelFerrer&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@
   <img align="center" alt="HyperText Markup Language Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="HyperText Markup Language Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     
-  <img height="140em" align="right" alt="Rafa-yoda" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+  <img height="130em" align="right" alt="Rafa-yoda" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
     
 </div>
   
