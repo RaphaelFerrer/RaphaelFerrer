@@ -1,8 +1,8 @@
 ### Olá, bem vindo(a)!! ☄
 
-- 👨‍💻 Junior Software Developer
+- 👨‍💻 Desenvolvedor de Software .NET
 - 🌱 Cursando Engenharia da Computação no IESB
-- 🛠 Estudando C, C#, HTML5, CSS3 e SQLServer
+- 🛠 | C | C# | .NET | HTML5 | CSS3 | SQLServer | MySql | DBaver | Docker |
 
 <div>
   <a href="https://github.com/RaphaelFerrer">
@@ -13,8 +13,13 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="HyperText Markup Language Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cascading Style Sheets Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+  <img align="center" alt="HyperText Markup Language Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="HyperText Markup Language Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="HyperText Markup Language Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="HyperText Markup Language Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    
   <img height="140em" align="right" alt="Rafa-yoda" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+    
 </div>
   
   ##
